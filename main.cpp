@@ -4,8 +4,6 @@
 #include <string>
 #include <vector>
 
-// Jacob Biles
-
 int main() {
 
 Node test(0);
